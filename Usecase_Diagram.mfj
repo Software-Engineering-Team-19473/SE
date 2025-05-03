@@ -475,7 +475,7 @@
 							"parentStyle": true,
 							"left": 458.5,
 							"top": 661,
-							"width": 88.98363281249999,
+							"width": 88,
 							"height": 25,
 							"stereotypeLabel": {
 								"$ref": "AAAAAAGWlTiX4TsULFI="
@@ -685,7 +685,7 @@
 							"parentStyle": true,
 							"left": 734,
 							"top": 629,
-							"width": 144.047265625,
+							"width": 143,
 							"height": 25,
 							"stereotypeLabel": {
 								"$ref": "AAAAAAGWlTuc1DtcNSM="
@@ -836,7 +836,7 @@
 							"visible": false,
 							"font": "Arial;13;0",
 							"parentStyle": false,
-							"left": 632,
+							"left": 635,
 							"top": 667,
 							"height": 13,
 							"alpha": 1.5707963267948966,
@@ -857,7 +857,7 @@
 							},
 							"font": "Arial;13;0",
 							"parentStyle": false,
-							"left": 600,
+							"left": 604,
 							"top": 626,
 							"width": 53.49169921875,
 							"height": 13,
@@ -881,7 +881,7 @@
 							"visible": false,
 							"font": "Arial;13;0",
 							"parentStyle": false,
-							"left": 629,
+							"left": 632,
 							"top": 638,
 							"height": 13,
 							"alpha": -1.5707963267948966,
@@ -994,7 +994,7 @@
 							"parentStyle": true,
 							"left": 722.5,
 							"top": 701,
-							"width": 88.98363281249999,
+							"width": 88,
 							"height": 25,
 							"stereotypeLabel": {
 								"$ref": "AAAAAAGWlT2kwTul2QA="
@@ -1145,7 +1145,7 @@
 							"visible": false,
 							"font": "Arial;13;0",
 							"parentStyle": false,
-							"left": 628,
+							"left": 631,
 							"top": 701,
 							"height": 13,
 							"alpha": 1.5707963267948966,
@@ -1166,7 +1166,7 @@
 							},
 							"font": "Arial;13;0",
 							"parentStyle": false,
-							"left": 600,
+							"left": 603,
 							"top": 716,
 							"width": 53.49169921875,
 							"height": 13,
@@ -1190,7 +1190,7 @@
 							"visible": false,
 							"font": "Arial;13;0",
 							"parentStyle": false,
-							"left": 633,
+							"left": 636,
 							"top": 672,
 							"height": 13,
 							"alpha": -1.5707963267948966,
@@ -1367,11 +1367,11 @@
 									},
 									"font": "Arial;13;1",
 									"parentStyle": true,
-									"left": 493.5,
+									"left": 497.5,
 									"top": 1540,
-									"width": 145,
+									"width": 163,
 									"height": 13,
-									"text": "자전거 전체 대여 내역 조회"
+									"text": "자전거 전체 대여 내역 통계 조회"
 								},
 								{
 									"_type": "LabelView",
@@ -1405,9 +1405,9 @@
 							],
 							"font": "Arial;13;0",
 							"parentStyle": true,
-							"left": 488.5,
+							"left": 492.5,
 							"top": 1533,
-							"width": 156.007265625,
+							"width": 174.2440185546875,
 							"height": 25,
 							"stereotypeLabel": {
 								"$ref": "AAAAAAGWlUDlDDxZde4="
@@ -1513,7 +1513,7 @@
 					"containerChangeable": true,
 					"left": 456,
 					"top": 1528,
-					"width": 220,
+					"width": 246,
 					"height": 35,
 					"nameCompartment": {
 						"$ref": "AAAAAAGWlUDlDDxYzqY="
@@ -1558,8 +1558,8 @@
 							"visible": false,
 							"font": "Arial;13;0",
 							"parentStyle": false,
-							"left": 724,
-							"top": 1551,
+							"left": 743,
+							"top": 1550,
 							"height": 13,
 							"alpha": 1.5707963267948966,
 							"distance": 15,
@@ -1579,8 +1579,8 @@
 							},
 							"font": "Arial;13;0",
 							"parentStyle": false,
-							"left": 698,
-							"top": 1566,
+							"left": 717,
+							"top": 1565,
 							"width": 53.49169921875,
 							"height": 13,
 							"alpha": 1.5707963267948966,
@@ -1603,8 +1603,8 @@
 							"visible": false,
 							"font": "Arial;13;0",
 							"parentStyle": false,
-							"left": 723,
-							"top": 1522,
+							"left": 742,
+							"top": 1521,
 							"height": 13,
 							"alpha": -1.5707963267948966,
 							"distance": 15,
@@ -1623,7 +1623,7 @@
 						"$ref": "AAAAAAGWlUEZNDyW2Ho="
 					},
 					"lineStyle": 1,
-					"points": "783:1542;677:1544",
+					"points": "783:1542;703:1543",
 					"showVisibility": true,
 					"nameLabel": {
 						"$ref": "AAAAAAGWlUEJFDyGiIg="
@@ -1676,11 +1676,11 @@
 									},
 									"font": "Arial;13;1",
 									"parentStyle": true,
-									"left": 838.5,
+									"left": 841.5,
 									"top": 1534.5,
-									"width": 228,
+									"width": 242,
 									"height": 13,
-									"text": "자전거 전체 대여 내역 조회 정렬 기준 변경"
+									"text": "자전거 전체 대여 내역 통계 조회 정렬 기준 변경"
 								},
 								{
 									"_type": "LabelView",
@@ -1714,9 +1714,9 @@
 							],
 							"font": "Arial;13;0",
 							"parentStyle": true,
-							"left": 833.5,
+							"left": 836.5,
 							"top": 1527.5,
-							"width": 238.60271484374996,
+							"width": 252.5494384765625,
 							"height": 25,
 							"stereotypeLabel": {
 								"$ref": "AAAAAAGWlUEZNDyYm4c="
@@ -1822,7 +1822,7 @@
 					"containerChangeable": true,
 					"left": 784,
 					"top": 1512,
-					"width": 337,
+					"width": 357,
 					"height": 56,
 					"nameCompartment": {
 						"$ref": "AAAAAAGWlUEZNDyX4nA="
@@ -1886,11 +1886,11 @@
 									},
 									"font": "Arial;13;1",
 									"parentStyle": true,
-									"left": 494.5,
+									"left": 498,
 									"top": 1636,
-									"width": 188,
+									"width": 204,
 									"height": 13,
-									"text": "자전거 대여 금액 및 대여 횟수 조회"
+									"text": "자전거 대여 금액 및 대여 횟수 통계 조회"
 								},
 								{
 									"_type": "LabelView",
@@ -1924,9 +1924,9 @@
 							],
 							"font": "Arial;13;0",
 							"parentStyle": true,
-							"left": 489.5,
+							"left": 493,
 							"top": 1629,
-							"width": 199.11089843749997,
+							"width": 215.20263671875,
 							"height": 25,
 							"stereotypeLabel": {
 								"$ref": "AAAAAAGWlUJU5jzig0o="
@@ -2032,7 +2032,7 @@
 					"containerChangeable": true,
 					"left": 448,
 					"top": 1624,
-					"width": 281,
+					"width": 304,
 					"height": 35,
 					"nameCompartment": {
 						"$ref": "AAAAAAGWlUJU5jzhgLY="
@@ -2053,315 +2053,6 @@
 					},
 					"extensionPointCompartment": {
 						"$ref": "AAAAAAGWlUJU5jzqLqw="
-					}
-				},
-				{
-					"_type": "UMLUseCaseView",
-					"_id": "AAAAAAGWlUMnZD0QGrQ=",
-					"_parent": {
-						"$ref": "AAAAAAGWisg+fzqHwYM="
-					},
-					"model": {
-						"$ref": "AAAAAAGWlUMnYz0O+es="
-					},
-					"subViews": [
-						{
-							"_type": "UMLNameCompartmentView",
-							"_id": "AAAAAAGWlUMnZD0RJ68=",
-							"_parent": {
-								"$ref": "AAAAAAGWlUMnZD0QGrQ="
-							},
-							"model": {
-								"$ref": "AAAAAAGWlUMnYz0O+es="
-							},
-							"subViews": [
-								{
-									"_type": "LabelView",
-									"_id": "AAAAAAGWlUMnZD0Sfz8=",
-									"_parent": {
-										"$ref": "AAAAAAGWlUMnZD0RJ68="
-									},
-									"visible": false,
-									"font": "Arial;13;0",
-									"parentStyle": true,
-									"left": 256,
-									"top": 2016,
-									"height": 13
-								},
-								{
-									"_type": "LabelView",
-									"_id": "AAAAAAGWlUMnZD0TbmQ=",
-									"_parent": {
-										"$ref": "AAAAAAGWlUMnZD0RJ68="
-									},
-									"font": "Arial;13;1",
-									"parentStyle": true,
-									"left": 855.5,
-									"top": 1636,
-									"width": 271,
-									"height": 13,
-									"text": "자전거 대여 금액 및 대여 횟수 조회 정렬 기준 변경"
-								},
-								{
-									"_type": "LabelView",
-									"_id": "AAAAAAGWlUMnZD0UPX4=",
-									"_parent": {
-										"$ref": "AAAAAAGWlUMnZD0RJ68="
-									},
-									"visible": false,
-									"font": "Arial;13;0",
-									"parentStyle": true,
-									"left": 256,
-									"top": 2016,
-									"width": 73.67724609375,
-									"height": 13,
-									"text": "(from Model)"
-								},
-								{
-									"_type": "LabelView",
-									"_id": "AAAAAAGWlUMnZD0V/mk=",
-									"_parent": {
-										"$ref": "AAAAAAGWlUMnZD0RJ68="
-									},
-									"visible": false,
-									"font": "Arial;13;0",
-									"parentStyle": true,
-									"left": 256,
-									"top": 2016,
-									"height": 13,
-									"horizontalAlignment": 1
-								}
-							],
-							"font": "Arial;13;0",
-							"parentStyle": true,
-							"left": 850.5,
-							"top": 1629,
-							"width": 281.70634765624993,
-							"height": 25,
-							"stereotypeLabel": {
-								"$ref": "AAAAAAGWlUMnZD0Sfz8="
-							},
-							"nameLabel": {
-								"$ref": "AAAAAAGWlUMnZD0TbmQ="
-							},
-							"namespaceLabel": {
-								"$ref": "AAAAAAGWlUMnZD0UPX4="
-							},
-							"propertyLabel": {
-								"$ref": "AAAAAAGWlUMnZD0V/mk="
-							}
-						},
-						{
-							"_type": "UMLAttributeCompartmentView",
-							"_id": "AAAAAAGWlUMnZD0WBok=",
-							"_parent": {
-								"$ref": "AAAAAAGWlUMnZD0QGrQ="
-							},
-							"model": {
-								"$ref": "AAAAAAGWlUMnYz0O+es="
-							},
-							"visible": false,
-							"font": "Arial;13;0",
-							"parentStyle": true,
-							"left": 80,
-							"top": 1008,
-							"width": 10,
-							"height": 10
-						},
-						{
-							"_type": "UMLOperationCompartmentView",
-							"_id": "AAAAAAGWlUMnZD0XvTg=",
-							"_parent": {
-								"$ref": "AAAAAAGWlUMnZD0QGrQ="
-							},
-							"model": {
-								"$ref": "AAAAAAGWlUMnYz0O+es="
-							},
-							"visible": false,
-							"font": "Arial;13;0",
-							"parentStyle": true,
-							"left": 80,
-							"top": 1008,
-							"width": 10,
-							"height": 10
-						},
-						{
-							"_type": "UMLReceptionCompartmentView",
-							"_id": "AAAAAAGWlUMnZD0YhtQ=",
-							"_parent": {
-								"$ref": "AAAAAAGWlUMnZD0QGrQ="
-							},
-							"model": {
-								"$ref": "AAAAAAGWlUMnYz0O+es="
-							},
-							"visible": false,
-							"font": "Arial;13;0",
-							"parentStyle": true,
-							"left": 80,
-							"top": 1008,
-							"width": 10,
-							"height": 10
-						},
-						{
-							"_type": "UMLTemplateParameterCompartmentView",
-							"_id": "AAAAAAGWlUMnZD0ZZVQ=",
-							"_parent": {
-								"$ref": "AAAAAAGWlUMnZD0QGrQ="
-							},
-							"model": {
-								"$ref": "AAAAAAGWlUMnYz0O+es="
-							},
-							"visible": false,
-							"font": "Arial;13;0",
-							"parentStyle": true,
-							"left": 80,
-							"top": 1008,
-							"width": 10,
-							"height": 10
-						},
-						{
-							"_type": "UMLExtensionPointCompartmentView",
-							"_id": "AAAAAAGWlUMnZD0a1HE=",
-							"_parent": {
-								"$ref": "AAAAAAGWlUMnZD0QGrQ="
-							},
-							"model": {
-								"$ref": "AAAAAAGWlUMnYz0O+es="
-							},
-							"visible": false,
-							"font": "Arial;13;0",
-							"parentStyle": true,
-							"left": 80,
-							"top": 1008,
-							"width": 10,
-							"height": 10
-						}
-					],
-					"font": "Arial;13;0",
-					"parentStyle": false,
-					"containerChangeable": true,
-					"left": 792,
-					"top": 1624,
-					"width": 398,
-					"height": 35,
-					"nameCompartment": {
-						"$ref": "AAAAAAGWlUMnZD0RJ68="
-					},
-					"suppressAttributes": true,
-					"suppressOperations": true,
-					"attributeCompartment": {
-						"$ref": "AAAAAAGWlUMnZD0WBok="
-					},
-					"operationCompartment": {
-						"$ref": "AAAAAAGWlUMnZD0XvTg="
-					},
-					"receptionCompartment": {
-						"$ref": "AAAAAAGWlUMnZD0YhtQ="
-					},
-					"templateParameterCompartment": {
-						"$ref": "AAAAAAGWlUMnZD0ZZVQ="
-					},
-					"extensionPointCompartment": {
-						"$ref": "AAAAAAGWlUMnZD0a1HE="
-					}
-				},
-				{
-					"_type": "UMLExtendView",
-					"_id": "AAAAAAGWlUNQuD1AmeM=",
-					"_parent": {
-						"$ref": "AAAAAAGWisg+fzqHwYM="
-					},
-					"model": {
-						"$ref": "AAAAAAGWlUNQuD0+P2g="
-					},
-					"subViews": [
-						{
-							"_type": "EdgeLabelView",
-							"_id": "AAAAAAGWlUNQuD1B+P0=",
-							"_parent": {
-								"$ref": "AAAAAAGWlUNQuD1AmeM="
-							},
-							"model": {
-								"$ref": "AAAAAAGWlUNQuD0+P2g="
-							},
-							"visible": false,
-							"font": "Arial;13;0",
-							"parentStyle": false,
-							"left": 752,
-							"top": 1650,
-							"height": 13,
-							"alpha": 1.5707963267948966,
-							"distance": 15,
-							"hostEdge": {
-								"$ref": "AAAAAAGWlUNQuD1AmeM="
-							},
-							"edgePosition": 1
-						},
-						{
-							"_type": "EdgeLabelView",
-							"_id": "AAAAAAGWlUNQuD1CLPk=",
-							"_parent": {
-								"$ref": "AAAAAAGWlUNQuD1AmeM="
-							},
-							"model": {
-								"$ref": "AAAAAAGWlUNQuD0+P2g="
-							},
-							"font": "Arial;13;0",
-							"parentStyle": false,
-							"left": 726,
-							"top": 1665,
-							"width": 53.49169921875,
-							"height": 13,
-							"alpha": 1.5707963267948966,
-							"distance": 30,
-							"hostEdge": {
-								"$ref": "AAAAAAGWlUNQuD1AmeM="
-							},
-							"edgePosition": 1,
-							"text": "«extend»"
-						},
-						{
-							"_type": "EdgeLabelView",
-							"_id": "AAAAAAGWlUNQuD1DrHs=",
-							"_parent": {
-								"$ref": "AAAAAAGWlUNQuD1AmeM="
-							},
-							"model": {
-								"$ref": "AAAAAAGWlUNQuD0+P2g="
-							},
-							"visible": false,
-							"font": "Arial;13;0",
-							"parentStyle": false,
-							"left": 753,
-							"top": 1620,
-							"height": 13,
-							"alpha": -1.5707963267948966,
-							"distance": 15,
-							"hostEdge": {
-								"$ref": "AAAAAAGWlUNQuD1AmeM="
-							},
-							"edgePosition": 1
-						}
-					],
-					"font": "Arial;13;0",
-					"parentStyle": false,
-					"head": {
-						"$ref": "AAAAAAGWlUJU5TzgDSw="
-					},
-					"tail": {
-						"$ref": "AAAAAAGWlUMnZD0QGrQ="
-					},
-					"lineStyle": 1,
-					"points": "791:1641;730:1641",
-					"showVisibility": true,
-					"nameLabel": {
-						"$ref": "AAAAAAGWlUNQuD1B+P0="
-					},
-					"stereotypeLabel": {
-						"$ref": "AAAAAAGWlUNQuD1CLPk="
-					},
-					"propertyLabel": {
-						"$ref": "AAAAAAGWlUNQuD1DrHs="
 					}
 				},
 				{
@@ -2452,7 +2143,7 @@
 							"visible": false,
 							"font": "Arial;13;0",
 							"parentStyle": false,
-							"left": 473,
+							"left": 482,
 							"top": 1626,
 							"height": 13,
 							"alpha": 0.5235987755982988,
@@ -2474,8 +2165,8 @@
 							"visible": false,
 							"font": "Arial;13;0",
 							"parentStyle": false,
-							"left": 468,
-							"top": 1638,
+							"left": 477,
+							"top": 1639,
 							"height": 13,
 							"alpha": 0.7853981633974483,
 							"distance": 40,
@@ -2496,7 +2187,7 @@
 							"visible": false,
 							"font": "Arial;13;0",
 							"parentStyle": false,
-							"left": 483,
+							"left": 492,
 							"top": 1600,
 							"height": 13,
 							"alpha": -0.5235987755982988,
@@ -2609,7 +2300,7 @@
 						"$ref": "AAAAAAGWlUJU5TzgDSw="
 					},
 					"lineStyle": 1,
-					"points": "502:1623;200:1560;132:1345",
+					"points": "511:1623;200:1560;132:1345",
 					"showVisibility": true,
 					"nameLabel": {
 						"$ref": "AAAAAAGWlUvY1FUN4y0="
@@ -2734,7 +2425,7 @@
 							"visible": false,
 							"font": "Arial;13;0",
 							"parentStyle": false,
-							"left": 434,
+							"left": 443,
 							"top": 1531,
 							"height": 13,
 							"alpha": 0.5235987755982988,
@@ -2756,8 +2447,8 @@
 							"visible": false,
 							"font": "Arial;13;0",
 							"parentStyle": false,
-							"left": 430,
-							"top": 1543,
+							"left": 439,
+							"top": 1544,
 							"height": 13,
 							"alpha": 0.7853981633974483,
 							"distance": 40,
@@ -2778,8 +2469,8 @@
 							"visible": false,
 							"font": "Arial;13;0",
 							"parentStyle": false,
-							"left": 443,
-							"top": 1504,
+							"left": 452,
+							"top": 1505,
 							"height": 13,
 							"alpha": -0.5235987755982988,
 							"distance": 25,
@@ -2891,7 +2582,7 @@
 						"$ref": "AAAAAAGWlUDlDDxXvpk="
 					},
 					"lineStyle": 1,
-					"points": "463:1527;240:1488;154:1345",
+					"points": "472:1527;240:1488;154:1345",
 					"showVisibility": true,
 					"nameLabel": {
 						"$ref": "AAAAAAGWlUyxNG7pjT8="
@@ -3381,7 +3072,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 			},
-			"name": "자전거 전체 대여 내역 조회"
+			"name": "자전거 전체 대여 내역 통계 조회"
 		},
 		{
 			"_type": "UMLUseCase",
@@ -3389,7 +3080,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 			},
-			"name": "자전거 전체 대여 내역 조회 정렬 기준 변경",
+			"name": "자전거 전체 대여 내역 통계 조회 정렬 기준 변경",
 			"ownedElements": [
 				{
 					"_type": "UMLExtend",
@@ -3412,30 +3103,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 			},
-			"name": "자전거 대여 금액 및 대여 횟수 조회"
-		},
-		{
-			"_type": "UMLUseCase",
-			"_id": "AAAAAAGWlUMnYz0O+es=",
-			"_parent": {
-				"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-			},
-			"name": "자전거 대여 금액 및 대여 횟수 조회 정렬 기준 변경",
-			"ownedElements": [
-				{
-					"_type": "UMLExtend",
-					"_id": "AAAAAAGWlUNQuD0+P2g=",
-					"_parent": {
-						"$ref": "AAAAAAGWlUMnYz0O+es="
-					},
-					"source": {
-						"$ref": "AAAAAAGWlUMnYz0O+es="
-					},
-					"target": {
-						"$ref": "AAAAAAGWlUJU5Tzead0="
-					}
-				}
-			]
+			"name": "자전거 대여 금액 및 대여 횟수 통계 조회"
 		}
 	]
 }
