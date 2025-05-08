@@ -1,3 +1,6 @@
+[MODUGGAGI] Fri May 9 01:55:22 2025 +0900 Requiremet List 최종버전 70bdfde
+[MODUGGAGI] Fri May 9 01:54:52 2025 +0900 Usecase_Description 최종버전 a8aeaed
+[MODUGGAGI] Fri May 9 01:42:17 2025 +0900 깃 커밋 히스토리 텍스트 파일 ebe708c
 [MODUGGAGI] Fri May 9 01:37:30 2025 +0900 Usecase Diagram 최종본 d9f7764
 [MODUGGAGI] Fri May 9 01:37:06 2025 +0900 Usecase Description 최종본 b3ffe55
 [MODUGGAGI] Fri May 9 01:36:36 2025 +0900 Requiremet List 최종본 4aa1cd4
