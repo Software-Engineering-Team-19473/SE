@@ -1,0 +1,26 @@
+[MODUGGAGI] Fri May 9 01:37:30 2025 +0900 Usecase Diagram 최종본 d9f7764
+[MODUGGAGI] Fri May 9 01:37:06 2025 +0900 Usecase Description 최종본 b3ffe55
+[MODUGGAGI] Fri May 9 01:36:36 2025 +0900 Requiremet List 최종본 4aa1cd4
+[MODUGGAGI] Thu May 8 22:03:57 2025 +0900 임경표 맡은 부분 임시 완료 a730769
+[yeobi] Wed May 7 20:50:38 2025 +0900 Actor로 비회원 추가 및 회원가입 Usecase와 연결 312a66f
+[MODUGGAGI] Mon May 5 23:55:58 2025 +0900 Usecase Description 변경된 다이어그램에 맞게 수정 dfbbdec
+[MODUGGAGI] Mon May 5 23:35:52 2025 +0900 Requirement List 최종 수정 8c73971
+[MODUGGAGI] Mon May 5 23:30:21 2025 +0900 Usecase Diagram 최종 수정 완료 fb34fab
+[MODUGGAGI] Mon May 5 18:23:04 2025 +0900 외부 시스템 Actor들 추가 f257b60
+[PizzaPark0] Sun May 4 19:55:01 2025 +0900 식당예약Usecase제거_워드 2b333a2
+[PizzaPark0] Sun May 4 19:47:53 2025 +0900 식당예약Usecase제거 c613c4b
+[PizzaPark0] Sun May 4 16:15:11 2025 +0900 도형크기조정 bae5a1b
+[PizzaPark0] Sun May 4 16:13:22 2025 +0900 Super_Actor_추가 4cc317f
+[PizzaPark0] Sun May 4 14:31:12 2025 +0900 Usecase_마지막추가_총28개 d85fb2d
+[yeobi] Sat May 3 20:49:35 2025 +0900 Usecase Diagram 파트2 작업완료 33a21c3
+[No-Jyun] Sat May 3 20:14:45 2025 +0900 Usecase Diagram 버전2 오류수정 8882614
+[No-Jyun] Sat May 3 19:40:02 2025 +0900 Usecase Diagram 파트1 작업완료 137b776
+[MODUGGAGI] Sat May 3 19:23:48 2025 +0900 자전거 대여 금액 및 대여 횟수 조회 usecase에서 extend 삭제 cdcb355
+[MODUGGAGI] Sat May 3 19:21:33 2025 +0900 자전거 대여 금액 및 대여 횟수 조회 usecase 수정 d351ef9
+[MODUGGAGI] Sat May 3 19:19:16 2025 +0900 usecase diagram 버전1 생성 45795de
+[No-Jyun] Sat May 3 16:14:12 2025 +0900 오타 수정 및 use case 추가 a29b301
+[PizzaPark0] Sat May 3 14:56:44 2025 +0900 Merge pull request #1 from Software-Engineering-Team-19473/master a3010e0
+[PizzaPark0] Sat May 3 14:52:54 2025 +0900 자전거 통계조회 분할 0d2d70e
+[MODUGGAGI] Fri May 2 12:29:27 2025 +0900 각 팀원들 학번 추가 b74c5ba
+[MODUGGAGI] Fri May 2 12:25:49 2025 +0900 requirement list와 usecase description 초기버전 828c6ec
+[KYUNG PYO LIM] Fri May 2 12:13:42 2025 +0900 Initial commit eec0d53
